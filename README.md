@@ -12,5 +12,6 @@ Understanding how a web application works.
 * POST: Used to post data up to the web server.
 * PUT: Ask the server to store the data.
 * DELETE: Ask the server to delete the data.
-* TRACE: Ask the server to return a diagnostic trace of the actions it takes.OPTIONS: Ask the server to return the list of request methods it supports.
+* TRACE: Ask the server to return a diagnostic trace of the actions it takes.
+* OPTIONS: Ask the server to return the list of request methods it supports.
 
