@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2A5DC4DC-B608-40CC-9831-A66B37248C18}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tracy__Website PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tracy_Website/Startup.cs">
+    <Files>
+      <File FileName="Tracy_Website/EmptyHTMLFile.html" Line="9" Column="9" />
+      <File FileName="Tracy_Website/Pages/Index.cshtml" Line="9" Column="14" />
+      <File FileName="Tracy_Website/Startup.cs" Line="26" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tracy_Website" expanded="True">
+            <Node name="Tracy_Website" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="image" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
