@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>6250 HW_1</title>
+</head>
+
+<body>       
+
+<form action="" method="post">
+    <label>How many children do you have?</label>
+    <input type="text" name="Number" id="Number" +
+    style="background-color:#FFD700;"><br>
+    <br>
+    <input type="submit" value="Submit" style="background-color:#FFD700;" onclick="output()">
+</form>
+
+<script type="text/javascript">
+    function output(){
+        var number = document.getElementById("Number")
+        var count = parseInt(number.value);
+        document.write("<form action='part6' method='post'>");
+
+        for(i=1; i<=count; i++){
+            document.write("<label>Please enter the name of child number " + i + "</label><br/>");
+		    document.write("<input type='text' name='name' style='background-color:#FFD700;' ><br/><br/>");
+        }
+        document.write("<input type='submit' value='Submit' style='background-color:#FFD700;'>");
+        document.write("</form>");
+    }
+</script>
+</body>
+</html>
