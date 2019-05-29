@@ -2,9 +2,9 @@
 
 ## Understanding how a web application works and exploring advanced server-side technologies and tools necessary to design.
 
-### Learning HTML, CSS & Javascript.
-### Designing & Developing Complex web applications.
-### Using Spring MVC and Hibernate to build server-side, database intensive and multitier web applications.
+### *Learning HTML, CSS & Javascript.
+### *Designing & Developing Complex web applications.
+### *Using Spring MVC and Hibernate to build server-side, database intensive and multitier web applications.
 
 #### Uniform Resource Identifier: protocol://hostname:port/path-and-file-name
 #### Request Methods:
