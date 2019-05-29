@@ -1,6 +1,6 @@
 # Web Development Tools and Methods 
 
-Understanding how a web application works and exploring advanced server-side technologies and tools necessary to design.
+## Understanding how a web application works and exploring advanced server-side technologies and tools necessary to design.
 
 ### Learning HTML, CSS & Javascript.
 ### Designing & Developing Complex web applications.
